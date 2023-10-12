@@ -1,6 +1,6 @@
 <?php
-define("TELEGRAM_TOKEN","6331980678:AAHS4NynPOMOHJk_gSzkSjKJ09QWNbgbP-U");
-define("TELEGRAM_CHAT_ID","-4061434273");
+define("TELEGRAM_TOKEN","ВАШ ТЕЛЕГРАМ БОТ");
+define("TELEGRAM_CHAT_ID","-4061434273");#Ваш чат куди відправляти
 
 $my_message="";
 
